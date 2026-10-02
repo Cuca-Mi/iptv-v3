@@ -1,0 +1,6 @@
+{
+  "name": "VeloStream IPTV",
+  "description": "Plataforma IPTV moderna com motor HLS anti-travamento estilo YouTube, proxy de streaming integrado, descoberta de canais open-source na internet e expansão de tela inteira no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
